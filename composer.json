@@ -1,0 +1,5 @@
+{
+    "require": {
+        "irfa/encrypt-file-laravel": "^1.3"
+    }
+}
